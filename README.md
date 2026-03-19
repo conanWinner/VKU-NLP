@@ -95,3 +95,4 @@ If the bug is in book text, please enter a errata here:
 
 If the bug is in the codebase:
 Great! Please read [this](https://github.com/practical-nlp/practical-nlp/edit/master/Contributing.md) how can you help us improve the codebase
+# VKU-NLP
